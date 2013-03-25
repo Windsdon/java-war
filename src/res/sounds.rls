@@ -1,0 +1,4 @@
+SND_LOGIN_BG,sounds/login.mp3
+SND_BUTTON_CLICK,sounds/buttonclick.mp3
+SND_BUTTON_RELEASE,sounds/buttonclickrelease.mp3
+SND_BUTTON_ROLLOVER,sounds/buttonrollover.mp3
